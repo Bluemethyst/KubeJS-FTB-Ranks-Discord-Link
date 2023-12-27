@@ -1,0 +1,4 @@
+colorama==0.4.6
+nextcord==2.6.0
+nextcord_ext_menus==1.5.7
+requests==2.31.0
