@@ -103,4 +103,4 @@ async def on_ready():
 
 
 
-bot.run('MTE4OTM1NzA5OTQwMzE5ODYxNA.GPWJ5M.uNisFPcDbamr2ZmUK4UGgBidi4ZrDOLRgjDsaM')
+bot.run('DISCORD-BOT-TOKEN')
